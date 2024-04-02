@@ -1,6 +1,7 @@
-h1{
-    color: green;
+h1 {
+    color: blue;
     font-size: 10rem;
+<<<<<<< HEAD
 <<<<<<< saavedra
 =======
 }
@@ -13,4 +14,15 @@ p{
     color:blue;
     
 >>>>>>> local
+=======
+}
+<<<<<<< HEAD
+body{
+    color: aqua;
+=======
+p{
+    color:blue;
+    
+>>>>>>> faraon
+>>>>>>> 0b821457c5127beac6604e5fd0db0e642f1502a7
 }
